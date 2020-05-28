@@ -2585,7 +2585,10 @@ mobile menu
     background: #fff;
     padding-top: 60px;
 }
-
+.contact-area.contact-area-4 {
+    background: lightgrey
+    padding-top: 60px;
+}
 .contact-area.contact-area-2:before {
     display: none;
 }
