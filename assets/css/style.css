@@ -2692,6 +2692,13 @@ mobile menu
     font-weight: 600;
 
 }
+.faq a {
+    font-size: 18px;
+    text-transform: initial;
+    color: #282e3f;
+    font-weight: 600;
+
+}
 
 .blog-s2 img {
     width: 100%;
