@@ -1575,6 +1575,14 @@ mobile menu
     transition: all .3s;
 }
 
+.blog-content h4 {
+    color: #272c3f;
+    transition: all .3s;
+    font-size: 18px;
+    text-transform: initial;
+    margin-left: 0px;
+    padding: 0px 0px 0px 0px;
+}
 .blog-content h3 a:hover {
     color: #c0b596;
 }
@@ -2692,7 +2700,7 @@ mobile menu
     font-weight: 600;
 
 }
-.faq a {
+.blog-content-3 a {
     font-size: 18px;
     text-transform: initial;
     color: #282e3f;
