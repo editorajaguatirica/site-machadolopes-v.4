@@ -1233,21 +1233,21 @@ mobile menu
 =========================================*/
 .contact-text .date {
     font-size: 18px;
-    color: #c0b596;
+    color: darkgrey;
 }
 
 .contact-text p {
     margin-top: 30px;
-    color: #ddd;
+    color: #272c3f;
     line-height: 30px;
 }
 
 .contact-text .title h2 {
-    color: #fff;
+    color: #272c3f;
 }
 
 .contact-area {
-    background: url("../images/contact/1.jpg") center center/cover no-repeat local;
+    background: grey;
     position: relative;
     background-attachment: fixed;
     padding-bottom: 55px;
@@ -1255,7 +1255,7 @@ mobile menu
 
 .contact-area:before {
     content: "";
-    background-color: rgba(21, 26, 48, 0.9);
+    background-color: white;
     width: 100%;
     height: 100%;
     position: absolute;
