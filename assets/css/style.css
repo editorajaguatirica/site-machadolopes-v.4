@@ -76,6 +76,7 @@ TABLE OF CONTENTS:
 
 body {
     font-family: 'Open Sans', sans-serif;
+    font-display: swap;
     font-size: 16px;
     -webkit-font-smoothing: antialiased;
     overflow-x: hidden;
@@ -101,6 +102,7 @@ h5,
 h6 {
     font-family: 'Playfair Display', serif;
     color: #282e3f;
+    font-display: swap;
 }
 
 ul {
@@ -628,6 +630,7 @@ mobile menu
 
 .hero .slick-prev:before {
     font-family: "FontAwesome";
+    font-display: swap;
     content: "\f104";
     opacity: 1;
     color: #fff;
@@ -639,6 +642,7 @@ mobile menu
 
 .hero .slick-next:before {
     font-family: "FontAwesome";
+    font-display: swap;
     content: "\f105";
     opacity: 1;
     color: #fff;
@@ -1165,6 +1169,7 @@ mobile menu
     top: 5px;
     content: "\f10d";
     font-family: 'FontAwesome';
+    font-display: swap;
     color: #c0b596;
     font-size: 30px;
 }
@@ -1181,6 +1186,7 @@ mobile menu
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
+    font-display: swap;
 }
 
 .img-content span {
@@ -1791,6 +1797,7 @@ mobile menu
     color: #ddd;
     font-size: 16px;
     font-family: 'Playfair Display', serif;
+    font-display: swap
 }
 
 .footer-bottom-content ul {
@@ -2148,6 +2155,7 @@ mobile menu
 .pricing-text h2 {
     font-size: 60px;
     font-family: 'Open Sans', sans-serif;
+    font-display: swap;
     font-weight: 600;
     margin-bottom: 10px;
     transition: all .3s;
@@ -2304,6 +2312,7 @@ mobile menu
 .practice-section-text h5 {
     font-size: 22px;
     font-family: 'Open Sans', sans-serif;
+    font-display: swap;
     line-height: 40px;
 }
 
@@ -2525,6 +2534,7 @@ mobile menu
 
 .Attorneys-info .info-outer .info span {
     font-family: "Playfair Display", serif;
+    font-display: swap;
     color: #333;
     font-weight: 700;
     font-size: 20px;
@@ -2792,6 +2802,7 @@ mobile menu
     left: 86%;
     top: 32px;
     font-family: 'FontAwesome';
+    font-display: swap;
     color: #ddd;
     font-size: 66px;
     opacity: .3;
@@ -2940,6 +2951,7 @@ mobile menu
 
 .blog-left-bar blockquote {
     font-family: 'Playfair Display', serif;
+    font-display: swap;
     background-color: #e4e0d4;
     font-size: 20px;
     color: #333;
@@ -3048,6 +3060,7 @@ mobile menu
 
 .blog-left-bar .author-box .author-name {
     font-family: "Playfair Display", serif;
+    font-display: swap;
     font-size: 24px;
     font-size: 1.5rem;
     display: inline-block;
@@ -3173,6 +3186,7 @@ mobile menu
     color: #333;
     font-weight: 700;
     font-family: 'Open Sans', sans-serif;
+    font-display: swap;
 }
 
 .blog-left-bar .comments-area .comments-date {
